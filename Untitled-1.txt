@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>my first web page</title>
+</head>
+<body bgcolor="olive">
+<b><u>welcome to sbjit</u></b>
+<p>data of information technology
+data of etc
+data of me
+</p>
+</body>
+<\html>
